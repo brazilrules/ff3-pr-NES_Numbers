@@ -1,0 +1,14 @@
+{
+  "keys": [
+    "exp_table",
+    "growth_curve",
+    "item",
+    "monster"
+  ],
+  "values": [
+    "Assets/GameAssets/Serial/Data/Master/exp_table",
+    "Assets/GameAssets/Serial/Data/Master/growth_curve",
+    "Assets/GameAssets/Serial/Data/Master/item",
+    "Assets/GameAssets/Serial/Data/Master/monster"
+  ]
+}
